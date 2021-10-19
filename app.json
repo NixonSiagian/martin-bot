@@ -1,0 +1,7 @@
+{
+  "name": "martin-bot",
+  "description": "whatsapp bot build with nodejs",
+  "repository": "https://github.com/NixonSiagian/martin-bot",
+  "logo": "https://pin.it/UuJqOd2",
+  "keywords": ["nodejs", "bot", "whatsapp bot"]
+}
